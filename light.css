@@ -1,0 +1,71 @@
+
+body {background-color: white;
+     } 
+p{
+
+  color: black;
+}
+button{
+background-color: white;
+  
+  
+  color: black;
+}
+
+ button:hover{
+   background-color: #2CD743;
+ } 
+p{
+  font-family: Arial, Helvetica, sans-serif;
+}
+all-button{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body img{
+ width: 200px;
+  height: 140.625;
+}
+
+
+h1{
+
+font-family: Arial, Helvetica, sans-serif;
+}
+all-button{
+  font-family: Ariel, Helvetica, sans-serif;
+}
+
+  
+
+h1{
+  color: #000000
+}
+h2{
+  color: #000000
+}
+alt 
+
+h2{
+  font-family: Ariel, Helvetica, sans-serif;
+}
+h3{color: #000000
+  }
+
+button{
+  width:200px;
+  height:60px;
+}
+a {
+  color: #000000;
+}
+a{
+  font-family: Ariel, Helvetica, sans-serif;
+}
+h2{
+  font-family: Ariel, Helvetica, sans-serif;
+}
+h3{
+  font-family: Ariel, Helvetica, sans-serif;
+}

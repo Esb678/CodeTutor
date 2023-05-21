@@ -1,0 +1,67 @@
+
+body {background-color: black;
+      outline: 1px solid #2CD743;
+     } 
+p{
+
+  color: white;
+}
+button{
+background-color: white;
+  
+  
+  color: black;
+}
+
+ button:hover{
+   background-color: #2CD743;
+ } 
+p{
+  font-family: Arial, Helvetica, sans-serif;
+}
+all-button{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body img{
+ width: 200px;
+ height: 140.625px;
+}
+
+
+h1{
+
+font-family: Arial, Helvetica, sans-serif;
+}
+all-button{
+  font-family: Ariel, Helvetica, sans-serif;
+}
+
+  
+
+h1{
+  color: #2CD743
+}
+h2{
+  color: #2CD743
+}
+h3{color: #2CD743
+  }
+
+a {
+  color: #2CD743;
+}
+a{
+  font-family: Ariel, Helvetica, sans-serif;
+}
+button{
+  width: 200px;
+  height:60px;
+}
+h2{
+  font-family: Ariel, Helvetica, sans-serif;
+}
+h3{
+  font-family: Ariel, Helvetica, sans-serif;
+} 
